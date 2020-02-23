@@ -4,7 +4,7 @@ The official workshop proceedings will be published after the workshop.<br>
 Please find below all preprints of the accepted papers and links to released research artifacts.
 
 | Title        | Preprint           | Artifacts  |
-| ----------------------- |:-----:| -----:|
+| ---------------- |:-----:| -----:|
 | o-glassesX: Compiler Provenance Recovery with Attention Mechanism from a Short Code Fragment     | [PDF](pdfs/bar2020-preprint1.pdf) | [GitHub](https://github.com/yotsubo/o-glassesX) |
 | Similarity Metric Method for Binary Basic Blocks of Cross-Instruction Set Architecture      | [PDF](pdfs/bar2020-preprint2.pdf)      | [GitHub](https://github.com/zhangxiaochuan/MIRROR) |
 | Creating Human Readable Path Constraints from Symbolic Execution | [PDF](pdfs/bar2020-preprint6.pdf)  | [GitHub](https://github.com/TodAmon/bar2020) |
