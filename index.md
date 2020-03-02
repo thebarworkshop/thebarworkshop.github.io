@@ -7,7 +7,7 @@ Please find below all preprints of the accepted papers and links to released res
 | --------------- |:--:|:---:|:--:|
 | o-glassesX: Compiler Provenance Recovery with Attention Mechanism from a Short Code Fragment     | [PDF](pdfs/bar2020-preprint1.pdf) | [GitHub](https://github.com/yotsubo/o-glassesX) | [PDF](slides/bar2020-slides1.pdf)
 | Similarity Metric Method for Binary Basic Blocks of Cross-Instruction Set Architecture      | [PDF](pdfs/bar2020-preprint2.pdf)      | [GitHub](https://github.com/zhangxiaochuan/MIRROR) | [PPTX](slides/bar2020-slides2.pptx)
-| Creating Human Readable Path Constraints from Symbolic Execution | [PDF](pdfs/bar2020-preprint6.pdf)  | [GitHub](https://github.com/TodAmon/bar2020) | |
+| Creating Human Readable Path Constraints from Symbolic Execution | [PDF](pdfs/bar2020-preprint6.pdf)  | [GitHub](https://github.com/TodAmon/bar2020) |[PDF](slides/bar2020-slides6.pdf)   [PPTX](slides/bar2020-slides6.pptx)|
 | Finding 1-Day Vulnerabilities in Trusted Applications using Selective Symbolic Execution | [PDF](pdfs/bar2020-preprint14.pdf) | [GitHub](https://github.com/teesec/simta) | [PDF](slides/bar2020-slides14.pdf)
 | It Doesn’t Have to Be So Hard: Efficient Symbolic Reasoning for CRC | [PDF](pdfs/bar2020-preprint11.pdf) | [GitHub](https://github.com/Navidem/symbolicCRC ) | [PDF](slides/bar2020-slides11.pdf)
 | A Heuristic Approach to Detect Opaque Predicates that Disrupt Static Disassembly | [PDF](pdfs/bar2020-preprint4.pdf) | [GitHub (tool)](https://github.com/yellowbyte/opaque-predicates-detective)<br>[GitHub (evaluation)](https://github.com/yellowbyte/opaque-predicates-detective-evaluations) | [PDF](slides/bar2020-slides4.pdf)
